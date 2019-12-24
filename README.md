@@ -23,9 +23,9 @@ una vez localizado copiar y pegar el contenido en una ventana de MySQL, PHPMyAdm
 3.- En caso de ser necesario modificar el archivo http://127.0.0.1/sistema_asistencia/conectar.php
 para los datos asociados al acceso a la base de datos.
 
-4.- Acceder a http://127.0.0.1/sistema_asistencia y entrar al sistema con los siguientes datos.
+4.- Acceder a http://127.0.0.1/sistema_asistencia/admin/ y entrar al sistema con los siguientes datos.
 Usuario: admin
-Password: 951753
+Password: 123456
 
 Capturas de pantalla: 
 
